@@ -1,0 +1,1 @@
+O método ensemble é uma técnica de aprendizado de máquina que combina o resultado de múltiplos modelos em busca de produzir um melhor modelo preditivo. Existem vários algoritmos pré-fixados de classificadores ensemble, tais como: bagging, boosting, bayesian averaging, entre outros.
